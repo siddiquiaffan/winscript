@@ -3,10 +3,11 @@
 
 <details>
     <summary>
-        #### Supported Apps
+        <h3> Supported Apps </h3>
     </summary>
     <ol>
         <li> 7Zip </li>
+        <li> Google Chrome </li>
     </ol>
 </details>
 ## How to run:
