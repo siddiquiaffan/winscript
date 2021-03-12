@@ -30,7 +30,17 @@ Function Install7Zip {
     Write-Host ""
     Write-Host "Installing 7zip... "
     winget install 7zip
+    Write-Host "Done!"
+    Write-Host ""
+}
+
+Function InstallChrome {
+    Write-Host "Installing Chrome Stable..."
+    winget install Google.Chrome
+    Write-Host "Done!"
+    Write-Host ""
 }
 
 Invoke-Expression InstallWinGet
 Invoke-Expression Install7Zip
+Invoke-Expression InstallChrome
