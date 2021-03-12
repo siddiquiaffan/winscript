@@ -17,6 +17,10 @@
 
 
 ## How to run:
+#### Method 1 : 
+Download the zip from [here](https://github.com/AffanTheBest/winscript/archive/main.zip).
+Extract, go inside the folder and run script.ps1 with powershell!  
+#### Method 2 : 
 ###### Open cmd / Powershell
 ```
 1. git clone https://github.com/AffanTheBest/winscript.git
