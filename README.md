@@ -3,7 +3,7 @@
 
 <details>
     <summary>
-        <h3> Supported Apps </h3>
+        <span><h3> Supported Apps </h3> </span>
     </summary>
     <ol>
         <li> 7Zip </li>
