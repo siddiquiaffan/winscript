@@ -2,9 +2,9 @@
 <p> A very simple script to install some useful apps in Windows with one click </p>
 
 <details>
-    <summary>
-        <span><h3> Supported Apps </h3> </span>
-    </summary>
+    <summar>
+        <span style="font-weight: bold; font-size:17px"> Supported Apps </span>
+    </summar
     <ol>
         <li> 7Zip </li>
         <li> Google Chrome </li>
