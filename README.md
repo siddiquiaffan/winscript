@@ -1,4 +1,4 @@
-#WinScript
+# WinScript
 <p> A very simple script to install some useful apps in Windows with one click </p>
 
 ## How to run:
