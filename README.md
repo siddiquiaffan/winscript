@@ -1,11 +1,14 @@
 # WinScript
 <p> A very simple script to install some useful apps in Windows with one click </p>
 
-#### Supported Apps
-<ol>
-<li> 7Zip </li>
-</ol>
-
+<details>
+    <summary>
+        #### Supported Apps
+    </summary>
+    <ol>
+        <li> 7Zip </li>
+    </ol>
+</details>
 ## How to run:
 ###### Open cmd / Powershell
 ```
