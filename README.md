@@ -1,6 +1,6 @@
 <div style="display:flex; justify-content:center; align-items:center;">
-# WinScript 
-# Download Zip
+    <h1> WinScript </h6> 
+    <h1> Download Zip </h1>
 </div>
 
 <p> A very simple script to install some useful apps in Windows with one click </p>
