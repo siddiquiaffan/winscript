@@ -1,7 +1,4 @@
-<div style="display:flex; justify-content:center; align-items:center;">
-    <h1> WinScript </h6> 
-    <h1> Download Zip </h1>
-</div>
+<h1> WinScript </h6>  <a href="https://github.com/AffanTheBest/winscript/archive/main.zip"<h1> Download Zip </h1> </a>
 
 <p> A very simple script to install some useful apps in Windows with one click </p>
 
