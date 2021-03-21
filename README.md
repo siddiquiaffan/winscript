@@ -1,4 +1,8 @@
-# WinScript
+<div style="display:flex; justify-content:center; align-items:center;">
+# WinScript 
+# Download Zip
+</div>
+
 <p> A very simple script to install some useful apps in Windows with one click </p>
 
 --------------------------------------------------------------
