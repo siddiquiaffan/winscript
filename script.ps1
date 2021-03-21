@@ -1,3 +1,5 @@
+# Completely written by https://github.com/AffanTheBest
+
 $tasks = @(
     "InstallChrome" , "InstallBrave" , "InstallVsCode" , "InstallTelegram" , "InstallVlc" , "Install7Zip" , "InstallMongoShell"
 )
@@ -91,3 +93,4 @@ Invoke-Expression Install7Zip
 Invoke-Expression InstallChrome
 Invoke-Expression InstallaFireFox
 Invoke-Expression InstallVscode
+
