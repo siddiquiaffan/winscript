@@ -26,10 +26,10 @@ Download the zip from [here](https://github.com/AffanTheBest/winscript/archive/m
 Extract, go inside the folder and run script.ps1 with powershell, when prompted for permissions hit 'YES'. 
 Sit back and relax!
 #### Method 2 : 
-###### Open cmd / Powershell
+<h6> Open Powershell </h6>
 ```
-1. git clone https://github.com/AffanTheBest/winscript.git
-2. Open the cloned folder and run script.ps1 with Powershell.
+1. git clone https://github.com/AffanTheBest/winscript.git; cd winscript; .\script.ps1;
 ```
+<h6> Copy and paste above command in Windows Powershell, and you're good to go."
 
 ###### Use at your own risk!
