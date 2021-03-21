@@ -1,4 +1,5 @@
-# WinScript
+<h1> WinScript | <a href="https://github.com/AffanTheBest/winscript/archive/main.zip"> Download Zip </a> </h1>
+
 <p> A very simple script to install some useful apps in Windows with one click </p>
 
 --------------------------------------------------------------
@@ -26,10 +27,10 @@ Download the zip from [here](https://github.com/AffanTheBest/winscript/archive/m
 Extract, go inside the folder and run script.ps1 with powershell, when prompted for permissions hit 'YES'. 
 Sit back and relax!
 #### Method 2 : 
-###### Open cmd / Powershell
+##### Open Powershell  
 ```
-1. git clone https://github.com/AffanTheBest/winscript.git
-2. Open the cloned folder and run script.ps1 with Powershell.
+1. git clone https://github.com/AffanTheBest/winscript.git; cd winscript; .\script.ps1;
 ```
+##### Copy and paste above command in Windows Powershell, and you're good to go.  
 
 ###### Use at your own risk!
