@@ -30,6 +30,6 @@ Sit back and relax!
 ```
 1. git clone https://github.com/AffanTheBest/winscript.git; cd winscript; .\script.ps1;
 ```
-<h6> Copy and paste above command in Windows Powershell, and you're good to go."
+<h6> Copy and paste above command in Windows Powershell, and you're good to go. </h6>
 
 ###### Use at your own risk!
