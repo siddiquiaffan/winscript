@@ -1,4 +1,4 @@
-<h1> WinScript </h6>  <a href="https://github.com/AffanTheBest/winscript/archive/main.zip"<h1> Download Zip </h1> </a>
+<h1> WinScript </h6>  <a href="https://github.com/AffanTheBest/winscript/archive/main.zip"><h1> Download Zip </h1> </a>
 
 <p> A very simple script to install some useful apps in Windows with one click </p>
 
